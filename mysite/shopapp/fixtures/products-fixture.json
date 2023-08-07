@@ -1,0 +1,74 @@
+[
+  {
+    "model": "shopapp.product",
+    "pk": 1,
+    "fields": {
+      "name": "Laptop",
+      "description": "Super Laptop!",
+      "price": "999.00",
+      "discount": 3,
+      "created_at": "2023-04-22T08:46:15.558Z",
+      "archived": false
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 2,
+    "fields": {
+      "name": "Desktop",
+      "description": "",
+      "price": "0.00",
+      "discount": 0,
+      "created_at": "2023-04-09T09:15:26.248Z",
+      "archived": false
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 3,
+    "fields": {
+      "name": "Smartphone",
+      "description": "Too many text. Too many text. Too many text. Too many text. Too many text. Too many text. Too many text. Too many text. Too many text.",
+      "price": "0.00",
+      "discount": 0,
+      "created_at": "2023-04-30T12:07:57.765Z",
+      "archived": true
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 4,
+    "fields": {
+      "name": "New Tablet",
+      "description": "Great Tablet ever!",
+      "price": "1199.00",
+      "discount": 1,
+      "created_at": "2023-04-11T17:33:56.538Z",
+      "archived": false
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 5,
+    "fields": {
+      "name": "Phone 10",
+      "description": "great Phone!",
+      "price": "1299.00",
+      "discount": 3,
+      "created_at": "2023-04-11T18:15:20.357Z",
+      "archived": false
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 6,
+    "fields": {
+      "name": "Headphones",
+      "description": "Great headphones!",
+      "price": "199.00",
+      "discount": 3,
+      "created_at": "2023-04-22T08:14:09.173Z",
+      "archived": false
+    }
+  }
+]

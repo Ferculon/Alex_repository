@@ -1,0 +1,444 @@
+2023-07-22 17:15:27,695 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-22 17:15:47,817 [WARNING] django.request: Not Found: /favicon.ico
+2023-07-24 12:46:10,073 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-24 12:57:03,989 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\mysite\settings.py changed, reloading.
+2023-07-24 12:57:05,686 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-24 12:57:23,179 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\mysite\settings.py changed, reloading.
+2023-07-24 12:57:24,792 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:17:42,520 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:17:52,022 [WARNING] django.request: Not Found: /favicon.ico
+2023-07-25 13:19:49,392 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:19:50,768 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:20:09,080 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:25:44,597 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:32:25,695 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:32:27,234 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:32:32,490 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:32:34,144 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:33:09,176 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:33:10,892 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:33:24,212 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:33:25,697 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:33:29,514 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:33:31,218 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:33:56,845 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:33:58,076 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:34:03,936 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:34:05,423 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:34:13,816 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:34:15,434 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:34:21,822 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:34:23,321 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:34:37,757 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:34:39,293 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:35:06,021 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:35:07,554 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:35:34,050 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:35:35,748 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:35:42,090 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:35:43,770 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:36:04,359 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:36:06,037 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:36:16,807 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:36:18,601 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:36:30,279 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:36:31,800 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:36:42,442 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:36:44,098 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:36:58,223 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:36:59,713 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:37:14,917 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:37:16,431 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:37:49,264 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:37:50,879 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:38:02,553 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:38:04,129 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:38:10,489 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:38:12,053 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:38:28,618 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:38:30,198 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:38:54,454 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:38:56,076 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:39:03,635 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:39:05,177 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:39:24,562 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:39:26,268 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:39:45,782 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:39:47,426 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:40:07,946 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:40:09,774 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:40:18,415 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:40:20,094 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:40:30,922 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:40:32,484 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:40:50,960 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:40:52,542 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:41:00,939 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:41:02,502 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:41:21,132 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:41:22,861 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:41:34,708 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:41:36,134 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:42:05,838 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:42:07,619 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:43:06,091 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:43:07,713 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 13:43:25,924 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 13:43:27,578 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:26:18,144 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:26:28,137 [WARNING] django.request: Not Found: /myauth/users/
+2023-07-25 20:26:28,277 [WARNING] django.request: Not Found: /favicon.ico
+2023-07-25 20:26:36,868 [WARNING] django.request: Not Found: /shop/
+2023-07-25 20:26:51,022 [WARNING] django.request: Not Found: /api_shop/
+2023-07-25 20:31:15,573 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 20:31:16,354 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:31:54,646 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 20:31:55,462 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:32:00,149 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 20:32:00,826 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:32:47,251 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 20:32:48,070 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:33:22,427 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 20:33:23,159 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:33:41,676 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 20:33:42,407 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:34:27,216 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 20:34:28,023 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:34:50,880 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 20:34:51,573 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:35:58,606 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 20:35:59,304 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:37:20,542 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 20:37:21,288 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:37:42,324 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 20:37:43,110 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:40:29,201 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\admin.py changed, reloading.
+2023-07-25 20:40:30,120 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:41:44,365 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\views.py changed, reloading.
+2023-07-25 20:41:45,174 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:42:02,627 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\views.py changed, reloading.
+2023-07-25 20:42:03,534 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:46:25,871 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:47:07,295 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\views.py changed, reloading.
+2023-07-25 20:47:08,128 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:47:29,429 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\views.py changed, reloading.
+2023-07-25 20:47:30,262 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:47:42,354 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\views.py changed, reloading.
+2023-07-25 20:47:43,185 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:47:56,390 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\views.py changed, reloading.
+2023-07-25 20:47:57,179 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:48:10,438 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\views.py changed, reloading.
+2023-07-25 20:48:11,248 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:48:24,107 [WARNING] django.request: Method Not Allowed: /api_shop/api_products/products/upload_csv/
+2023-07-25 20:52:00,454 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\views.py changed, reloading.
+2023-07-25 20:52:01,229 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:52:09,061 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\views.py changed, reloading.
+2023-07-25 20:52:09,830 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:52:13,477 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\views.py changed, reloading.
+2023-07-25 20:52:14,174 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:52:28,331 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\views.py changed, reloading.
+2023-07-25 20:52:29,016 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:52:34,757 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\views.py changed, reloading.
+2023-07-25 20:52:35,476 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:52:46,571 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\views.py changed, reloading.
+2023-07-25 20:52:47,326 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-25 20:53:34,591 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\shopapp\views.py changed, reloading.
+2023-07-25 20:53:35,345 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:14:13,790 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:14:36,310 [WARNING] django.request: Not Found: /favicon.ico
+2023-07-26 13:16:41,712 [WARNING] django.request: Not Found: /blogapp/articles
+2023-07-26 13:16:51,704 [ERROR] django.request: Internal Server Error: /blog/articles/
+Traceback (most recent call last):
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\sentry_sdk\integrations\django\views.py", line 38, in sentry_patched_render
+    return old_render(self)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\sentry_sdk\integrations\django\templates.py", line 75, in rendered_content
+    return real_rendered_content.fget(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\test\utils.py", line 111, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\test\utils.py", line 111, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\defaulttags.py", line 321, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'article' not found. 'article' is not a valid view function or pattern name.
+2023-07-26 13:17:29,810 [ERROR] django.request: Internal Server Error: /blog/articles/2/
+Traceback (most recent call last):
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\sentry_sdk\integrations\django\views.py", line 38, in sentry_patched_render
+    return old_render(self)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\sentry_sdk\integrations\django\templates.py", line 75, in rendered_content
+    return real_rendered_content.fget(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/article_detail.html
+2023-07-26 13:25:22,428 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:29:34,141 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:29:34,987 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:29:42,886 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:29:43,653 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:29:51,502 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:29:52,361 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:30:35,116 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:30:36,010 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:31:16,931 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:31:17,620 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:31:39,308 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:31:40,136 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:31:52,259 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:31:52,988 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:32:07,257 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:32:07,978 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:32:14,780 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:32:15,528 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:32:21,198 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:32:22,102 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:32:38,919 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:32:39,716 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:32:54,029 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:32:54,718 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:33:05,776 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:33:06,544 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:33:22,154 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:33:22,836 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:33:39,124 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:33:39,979 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:33:57,442 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:33:58,725 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:34:16,116 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:34:16,919 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:35:01,313 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:35:02,175 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:35:20,706 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:35:21,514 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:36:30,906 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:36:31,706 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:37:00,304 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:37:01,092 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:37:29,447 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:37:30,168 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:37:42,290 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:37:43,263 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:37:52,265 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:37:53,000 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:38:34,935 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:38:35,714 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:40:26,998 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:40:27,774 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:41:00,040 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:41:00,871 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:42:05,072 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:42:06,026 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:42:41,558 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:42:42,281 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:42:57,599 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:42:58,361 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:43:17,949 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\views.py changed, reloading.
+2023-07-26 13:43:18,719 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:43:48,844 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\urls.py changed, reloading.
+2023-07-26 13:43:49,755 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:44:32,549 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\urls.py changed, reloading.
+2023-07-26 13:44:33,166 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-26 13:44:45,303 [INFO] django.utils.autoreload: C:\Users\alexe\OneDrive\Рабочий стол\Python\mysite\blogapp\urls.py changed, reloading.
+2023-07-26 13:44:46,088 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-27 10:33:29,853 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-27 10:34:00,617 [WARNING] django.request: Not Found: /sitemaps.xml
+2023-07-27 10:34:00,839 [WARNING] django.request: Not Found: /favicon.ico
+2023-07-28 11:25:09,805 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-28 11:41:12,289 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-28 11:56:58,126 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-28 12:01:27,539 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-28 12:01:47,731 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-28 12:15:00,648 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-28 12:22:28,702 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-28 12:35:02,722 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-28 12:37:24,028 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-28 12:38:07,814 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-28 12:38:21,881 [WARNING] django.request: Not Found: /favicon.ico
+2023-07-28 12:38:29,950 [ERROR] django.request: Internal Server Error: /api_shop/products/2/update/
+Traceback (most recent call last):
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\sentry_sdk\integrations\django\views.py", line 38, in sentry_patched_render
+    return old_render(self)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\sentry_sdk\integrations\django\templates.py", line 75, in rendered_content
+    return real_rendered_content.fget(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\test\utils.py", line 112, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\test\utils.py", line 112, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\template\base.py", line 914, in _resolve_lookup
+    current = current()
+              ^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\forms\utils.py", line 84, in as_p
+    return self.render(self.template_name_p)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\forms\utils.py", line 67, in render
+    context = context or self.get_context()
+                         ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\forms\forms.py", line 325, in get_context
+    if bf.is_hidden:
+       ^^^^^^^^^^^^
+  File "C:\Users\alexe\OneDrive\Рабочий стол\Python\venv\Lib\site-packages\django\forms\boundfield.py", line 235, in is_hidden
+    return self.field.widget.is_hidden
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FileFieldForm' object has no attribute 'is_hidden'
+2023-07-28 12:40:38,968 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-28 12:42:32,665 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-07-28 12:44:31,299 [WARNING] django.request: Not Found: /mad
+2023-07-28 12:45:51,232 [WARNING] django.request: Not Found: /
