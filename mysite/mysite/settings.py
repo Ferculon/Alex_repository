@@ -15,10 +15,11 @@ from pathlib import Path
 
 from django.urls import reverse_lazy
 from django.utils.translation import gettext_lazy as _
+
 import sentry_sdk
 
 sentry_sdk.init(
-  dsn="https://e7ce7b17a2cf4408aa853f6bc251ff62@o4505583758606336.ingest.sentry.io/4505583765618688",
+  dsn="https://f36730d912bd0494bf723b48354b622d@o4505583758606336.ingest.sentry.io/4505736693743616",
   traces_sample_rate=1.0
 )
 
@@ -146,7 +147,7 @@ DATABASES = {
 
 CACHES = {
     'default': {
-        'BACKENDS': 'django.core.cache.backends.dummy.DummyCache',  # не хранит в себе ничего, но занимает место и выполняет те же методы, что и FileBasedCache
+        'BACKEND': 'django.core.cache.backends.dummy.DummyCache',  # не хранит в себе ничего, но занимает место и выполняет те же методы, что и FileBasedCache
         # 'BACKENDS': 'django.core.cache.backends.filebased.FileBasedCache',  # место, где хранится кэш
         # # 'LOCATION': '/var/tmp/django.cache',
         # 'LOCATION': 'c:/Users/alexe/mycache',  # настройка расположения кэша на windows

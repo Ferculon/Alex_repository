@@ -36,7 +36,7 @@ urlpatterns = [
     path('api/schema/swagger/', SpectacularSwaggerView.as_view(url_name='schema'), name='swagger'),
     path('api/schema/redoc/', SpectacularRedocView.as_view(url_name='schema'), name='redoc'),
     path('api/', include('myapiapp.urls')),
-    path('api_shop/', include('shopapp.urls')),
+    # path('api_shop/', include('shopapp.urls')),
     path('blog/', include('blogapp.urls')),
 
     path('sitemap.xml', sitemap, {'sitemaps': sitemaps,}, name='django.contrib.sitemaps.views',),
